@@ -1,0 +1,6 @@
+@Employee_HostAddress = http://localhost:5155
+
+GET {{Employee_HostAddress}}/api/Department
+Accept: application/json
+
+###
